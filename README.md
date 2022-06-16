@@ -1,6 +1,6 @@
 # Dashboard-for-PhoneNow-Call-Center-Manager
 # Project name : PhoneNow Call Center Analysis.
-This is my first task during Pwc Inrenship.
+This was my first task during Pwc Inrenship.
 
 ----
 # Project Objective : Problem Statement
